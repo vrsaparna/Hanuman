@@ -1,0 +1,18 @@
+{
+  "name": "Hanuman Chalisa",
+  "short_name": "Chalisa",
+  "description": "Listen to Hanuman Chalisa with beautiful verses and translations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#d97706",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/vrsaparna/Hanuman/main/Hanuman.JPG",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
