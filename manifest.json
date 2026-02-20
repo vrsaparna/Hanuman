@@ -2,7 +2,7 @@
   "name": "Hanuman Chalisa",
   "short_name": "Chalisa",
   "description": "Listen to Hanuman Chalisa with beautiful verses and translations",
-  "start_url": "/",
+  "start_url": "/Hanuman/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#d97706",
